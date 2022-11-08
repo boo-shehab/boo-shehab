@@ -5,12 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=boo-shehab" alt="boo-shehab" /></a> </p>
 
-- 👨‍💻 My [LinkedIn](https://www.linkedin.com/in/ahmed-al-ali-77b6a0246/)
-
-- 📍 I'm from **Iraq, Baghdad**
-
-- 📫 You can reach me on **bfhetyrhyr12@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/boo_shehab2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="boo_shehab2000" height="30" width="40" /></a>
