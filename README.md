@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmed al-ali</h1>
+<h1 align="center">Hi 👋,I'm Ahmed al-ali</h1>
 <h3 align="center">Front-end Developer with a love for React and JavaScript. I play chess and mess around with state machines in my spare time. Open to new opportunities.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boo-shehab&label=Profile%20views&color=0e75b6&style=flat" alt="boo-shehab" /> </p>
