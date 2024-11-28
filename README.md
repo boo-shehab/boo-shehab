@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Abas Al-Ali</h1>
 
-<h3 align="center">A Full-Stack Developer who love to bring design to life with React and pure CSS. Open to new opportunities.</h3>
+<h3 align="center">A Front-End Developer who loves to bring design to life with React and pure CSS. Open to new opportunities.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boo-shehab&label=Profile%20views&color=0e75b6&style=flat" alt="boo-shehab" /> </p>
 
@@ -14,7 +14,7 @@
 
 - 📫 You can reach me at **bfhetyrhyr12@gmail.com**
 
-- 📄 Know about my experiences [see my resume](https://docs.google.com/document/d/1sqJUsjlKj91wyslI9K1hcRS2erZ2pJ9elCki-99Y__s/edit?usp=sharing)
+- 📄 Know about my experiences [see my resume](https://docs.google.com/document/d/1i2KxQPlQkdZQ-BMC-Q7OeBE5Z-klQZqsLa7Jfr5Ur0k/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
